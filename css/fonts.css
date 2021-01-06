@@ -1,0 +1,13 @@
+/* Lato */
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900);
+
+/* Source Sans Pro */
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,500,600);
+
+body {
+  font-family: Source Sans Pro, Lato, PT Sans, Source Sans Pro, Optima, Candara, Calibri, Arial, sans-serif;
+}
+code {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 85%;
+}

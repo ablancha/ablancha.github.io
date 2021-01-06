@@ -1,0 +1,144 @@
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+  line-height: 1.5em;
+}
+
+/* header and footer areas */
+footer { 
+  text-align: center;
+  font-size: 0.8em; 
+  color: #bbb;
+} 
+
+hr {
+  border-style: solid;
+  border-width: 0.5px;
+  color: #ddd;
+}
+
+/* misc elements */
+img, iframe, video { max-width: 100%; }
+main { hyphens: auto; }
+
+table {
+  margin-left: 20px;
+}
+th, td { padding: 5px; }
+table tr th:empty {
+  display: none;
+}
+
+img.avatar {
+  border-radius: 50%;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 4px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.card {
+  max-width: 20%;
+  min-width: 40px;
+  text-align: center;
+  float: right;
+  margin-left: 200px;
+  font-size: 1.4em; 
+}
+
+a {
+  color: inherit; 
+  text-decoration: none;
+  padding-bottom: 1px;
+  border-bottom: 1px dotted;
+}
+
+a:hover {
+  color: #EDA43C;
+}
+
+a img {
+  display: block;
+  border-radius: 5%;
+  margin-bottom: 10px;
+}
+
+#naked a {
+  padding-bottom: none;
+  border-bottom: none;
+}
+
+.highlight {
+/*  background-color: #ffe359; */
+    background-color: #FADFB5;
+    background-color: #ddd;
+}
+
+.journal {
+  color: #00964b;
+  font-style: italic;
+}
+
+dd {
+    display: list-item;
+    list-style-type: disc;
+}
+
+dt {
+    font-size: 1.1em;
+    font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 1em;
+}
+
+.row {
+  margin: 8px -16px;
+}
+
+/* Add padding BETWEEN each column (if you want) */
+.row,
+.row > .column {
+  padding: 8px 8px 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 23%;
+}
+
+/* Clear floats after rows */ 
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Content */
+.content {
+  text-align: center;
+  padding-bottom: 8px;
+/*border-radius: 5px;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.19); */
+}
+
+/* Menu */
+.nav-links {
+  padding: 0;
+  list-style: none;
+  text-align: right;
+  font-size: 1em;
+}
+
+.nav-links li {
+  display: inline-block;
+  margin: 0 0 0 25px;
+}
+
+.nav-links li:first-child {
+  margin-left: 0;
+  text-transform: none;
+  font-size: 1.5em;
+}
+
+

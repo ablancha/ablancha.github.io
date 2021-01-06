@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Antoine Blanchard</title>
+    <link>https://ablancha.github.io/</link>
+    <description>Recent content in Home on Antoine Blanchard</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://ablancha.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Publications</title>
+      <link>https://ablancha.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/publications/</guid>
+      <description>Preprints  Informative Path Planning for Anomaly Detection in Environment Exploration and Monitoring  A. Blanchard &amp; T. Sapsis  
+ Output-Weighted Optimal Sampling for Bayesian Experimental Design and Uncertainty Quantification  A. Blanchard &amp; T. Sapsis  
+ Journal papers  Bayesian Optimization with Output-Weighted Optimal Sampling  A. Blanchard &amp; T. Sapsis Journal of Computational Physics 425, 109901 (2021) -- Journal of Computational Physics  425, 109901 (2021)</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ablancha.github.io/acoustics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/acoustics/</guid>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     Vibration confinement and mitigation is vital for structures like bridges and taut cables. Vibration suppression is often achieved by coupling the structure with local dissipative attachments, also known as &amp;ldquo;absorbers&amp;rdquo;. Dissipation in the absorber introduces mode complexity which gives rise to an interesting interplay between standing and traveling waves.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ablancha.github.io/control/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/control/</guid>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     In many physical systems transient instabilities are difficult to control because of the curse of dimensionality. Order-reduction techniques have become customary because design and implementation of controllers in low-dimensional subspaces is computationally more tractable. We explore how reduced-order models can be combined with high-fidelity computational models to shed light on the physical mechanisms responsible for transient instabilities.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ablancha.github.io/fsi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/fsi/</guid>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     Vortex-induced vibration (VIV) is of practical importance in flow past tall buildings and chimneys, heat-exchanger tubes in nuclear power plants, power transmission lines, and off-shore structures. Current approaches to suppress or enhance VIV generally lead to excessive power requirements or structural issues caused by external appendages. To combat this, we propose coupling the structure with a strongly nonlinear and dissipative internal subsystem, dubbed &amp;ldquo;nonlinear energy sink&amp;rdquo; (NES).</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ablancha.github.io/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/learning/</guid>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     Bayesian active-learning algorithms are widely used for design and optimization of black-box functions, largely because of their ability to compromise between exploration and exploitation before each function query. However, the criteria commonly used for sample selection fall short when the black box has the ability to generate rare and extreme events, i.</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://ablancha.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ablancha.github.io/research/</guid>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     </description>
+    </item>
+    
+  </channel>
+</rss>
