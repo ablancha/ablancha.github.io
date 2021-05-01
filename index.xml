@@ -36,7 +36,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ablancha.github.io/control/</guid>
-      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     In many physical systems transient instabilities are difficult to control because of the curse of dimensionality. Order-reduction techniques have become customary because design and implementation of controllers in low-dimensional subspaces is computationally more tractable. We explore how reduced-order models can be combined with high-fidelity computational models to shed light on the physical mechanisms responsible for transient instabilities.</description>
+      <description>Active learning    Dynamics and control    Fluid&amp;ndash;structure interaction    Acoustics and vibrations     In many physical systems, transient instabilities are difficult to control because of the curse of dimensionality. Order-reduction techniques have become customary because design and implementation of controllers in low-dimensional subspaces is computationally more tractable. We explore how reduced-order models can be combined with high-fidelity computational models to shed light on the physical mechanisms responsible for transient instabilities.</description>
     </item>
     
     <item>
