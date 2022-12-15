@@ -69,9 +69,11 @@ a img {
 }
 
 .highlight {
-/*  background-color: #ffe359; */
+/*  background-color: #ffe359; 
     background-color: #FADFB5;
-    background-color: #ddd;
+    background-color: #ddd; */
+    color: #ff0f19;
+    font-weight: bold;
 }
 
 .journal {
